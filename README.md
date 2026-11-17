@@ -8,7 +8,7 @@ The dashboard provides a visual summary of key business metrics, helping managem
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](sales-performance-dashboard.png)
+![Sales Performance Dashboard](sales_dasdhboard.jpeg)
 
 ## Key Performance Indicators (KPIs)
 
